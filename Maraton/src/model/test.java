@@ -38,9 +38,17 @@ public class test {
 	}
 	
 	
+	public void metodo4() {
+		calculator.persistence();
+	}
+	
+	
+	
+	
+	
 	
 	public static void main(String[] args) {
-		new test().metodo3();
+		new test().metodo4();
 	}
 
 }
